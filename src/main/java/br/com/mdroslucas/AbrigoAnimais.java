@@ -32,7 +32,7 @@ public class AbrigoAnimais {
                 } else if (opcaoEscolhida == 2) {
                     abrigoService.cadastrarAbrigo();
                 } else if (opcaoEscolhida == 3) {
-                    petService.listaPets();
+                    petService.listarPets();
                 } else if (opcaoEscolhida == 4) {
                     petService.importarPetsDoAbrigo();
                 } else if (opcaoEscolhida == 5) {
